@@ -10,6 +10,7 @@ on:
         type: choice
         default: link_nn6000v2_immwrt
         options:       
+          - link_nn6000v2_immwrt
           - zn_m2_immwrt
           - zn_m2_libwrt
 
